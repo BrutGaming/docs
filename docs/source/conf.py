@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'BrutGamin Documentation'
+project = 'BrutGaming Documentation'
 copyright = '2025, BrutGaming'
 author = 'Ricotjhe'
 
