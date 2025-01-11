@@ -1,22 +1,73 @@
-Welcome to Lumache's documentation!
-===================================
+##############################################
+Welcome to BrutGaming's Official Documentation!
+##############################################
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This documentation covers the official rules, lore, and tutorials of the `BrutGaming Community`_. This resource uses both Markdown and Sphinx. Use the side bar for navigation. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Below are some important links to our various official websites that will be referenced throughout this documentation. You will also find below an appendix of abbreviation utilized throughout the guides and rules. The lore of the server may be used in character.
 
-.. note::
+**Links**
 
-   This project is under active development.
+* `Main Site`_
+* `Wiki`_
+* `Discord`_
 
-Contents
---------
+.. _OwlGaming Community: https://brutgaming.com/
+.. _Main Site: https://brutgaming.com/
+.. _Wiki: https://wiki.brutgaming.com 
+.. _Discord: https://discord.gg/brutgaming
 
 .. toctree::
+    :maxdepth: 2
+    :caption: Rules
 
-   usage
-   api
+    rules/general_rules   
+    rules/mta_rules
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Tutorials
+
+    tutorials/beginner_tutorial
+        
+.. toctree::
+    :maxdepth: 2
+    :caption: Lore
+
+    lore/lore
+        
+.. toctree::
+    :maxdepth: 2
+    :caption: Tutorials
+        
+.. toctree::
+    :maxdepth: 2
+    :caption: Lore
+
++--------------+---------------------------+
+| Abbreviation | Description               |
++==============+===========================+
+| IC           | In Character              |
++--------------+---------------------------+
+| OOC          | Out of Character          |
++--------------+---------------------------+
+| PK           | Player Kill               |
++--------------+---------------------------+
+| CK           | Character Kill            |
++--------------+---------------------------+
+| UAT          | Upper Administration Team |
++--------------+---------------------------+
+| GAT          | Game Administration Team  |
++--------------+---------------------------+
+| FT           | Faction Team              |
++--------------+---------------------------+
+| PC           | Public Contact            |
++--------------+---------------------------+
+| UCP          | User Control Panel        |
++--------------+---------------------------+
+| RP           | Role Play                 |
++--------------+---------------------------+
+| PG           | Powergame                 |
++--------------+---------------------------+
+| MG           | Metagame                  |
++--------------+---------------------------+
