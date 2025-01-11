@@ -49,8 +49,6 @@ To type in the chatbox, press "**T**". You can adjust your chat settings by clic
 +---------------+------------------------------------------------------------------------------------------------+
 | /s            | Shout to everyone around your character, normal shouting.                                      |
 +---------------+------------------------------------------------------------------------------------------------+
-| /sl           | Shout loudly to everyone around your character, yelling at the top of your lungs.              |
-+---------------+------------------------------------------------------------------------------------------------+
 | /p            | Talk to another character on the phone.                                                        |
 +---------------+------------------------------------------------------------------------------------------------+
 | /r            | Talk to other characters through the radio.                                                    |
@@ -72,7 +70,7 @@ To type in the chatbox, press "**T**". You can adjust your chat settings by clic
 
 World Interaction
 -----------------
-The majority of high frequency things you interact with in the world will be accessed with "**M**". This means you'll press "**E**" to perform an action whenever prompted. This includes but is not limited to...
+The majority of high frequency things you interact with in the world will be accessed with "**M**". This means the mouse pops up with "**M**" to perform an action or interact with NPCs. This includes but is not limited to...
 
 * Opening a banking / ATM interface.
 * Opening a shopping interface.

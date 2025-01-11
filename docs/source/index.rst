@@ -12,7 +12,7 @@ Below are some important links to our various official websites that will be ref
 * `Wiki`_
 * `Discord`_
 
-.. _OwlGaming Community: https://brutgaming.com/
+.. _BrutGaming Community: https://brutgaming.com/
 .. _Main Site: https://brutgaming.com/
 .. _Wiki: https://wiki.brutgaming.com 
 .. _Discord: https://discord.gg/brutgaming

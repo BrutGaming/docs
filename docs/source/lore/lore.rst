@@ -1,5 +1,5 @@
 #######################
-Grand Theft Auto V
+Multi Theft Auto
 #######################
 .. _bug tracker: https://www.brutgaming.com/tickets
 .. _UAT Contact: https://www.brutgaming.com/tickets
